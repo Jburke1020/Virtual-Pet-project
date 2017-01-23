@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FriendsWithPets\FriendsWithPets\bin\Debug\FriendsWithPets.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\FriendsWithPets\FriendsWithPets\bin\Debug\FriendsWithPets.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\FriendsWithPets\FriendsWithPets\bin\Debug\FriendsWithPets.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\FriendsWithPets\FriendsWithPets\obj\Debug\FriendsWithPets.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\FriendsWithPets\FriendsWithPets\obj\Debug\FriendsWithPets.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\FriendsWithPets\FriendsWithPets\obj\Debug\FriendsWithPets.csprojResolveAssemblyReference.cache
