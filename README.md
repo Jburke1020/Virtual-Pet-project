@@ -1,1 +1,4 @@
 # Virtual-Pet-project
+## This program is a practice event for WeCanCodeIt Bootcamp. 
+### Skills utilized:  This project was created after a week of hands-on instruction with class files, declaration, properties and object initializer syntax.  I built upon my knowledge of methods by creating a method that calls another method.  Additionally, I experimented with exception handling to include a catch for a various calamities.
+The premise of this project is to create a virtual pet that allows the user to choose an action statement to "care" for their virtual pet.  In this program the user may input the following: (1) to feed; (2) to water; (3) to play. Upon doing so, the pet's properties which are defined as Hunger, Thirst and Energy in the class file "VirtualPet" are currently set to values: 2, 4, 2, respectively; however, the option to update this properties based on the user inpupt is available through methods in the class file.
